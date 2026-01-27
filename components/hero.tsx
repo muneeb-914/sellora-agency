@@ -67,10 +67,10 @@ export default function Hero() {
             <motion.a
               whileHover={{ scale: 1.03, boxShadow: "0 20px 30px rgba(249, 115, 22, 0.15)" }}
               whileTap={{ scale: 0.97 }}
-              href="#contact"
+              href="#services"
               className="bg-orange-500 text-white font-black uppercase tracking-widest text-xs px-10 py-5 rounded-2xl transition shadow-lg shadow-orange-200"
             >
-              Start Free Session
+              View Services
             </motion.a>
 
             <motion.a
