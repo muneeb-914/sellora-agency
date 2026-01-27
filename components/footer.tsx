@@ -66,10 +66,15 @@ export default function Footer() {
                 <span className="text-orange-500 text-lg">📞</span>
                 <a href="https://wa.me/+923106239168" className="font-black text-slate-900 text-base">+92 310 6239168</a>
               </li>
+              <li className="flex flex-col items-center sm:items-start gap-1">
+                <span className="text-orange-500 text-lg">📧</span>
+                <a href="mailto:selloraagency@gmail.com" className="font-black text-slate-900 text-base">selloraagency@gmail.com</a>
+              </li>
               <li className="flex items-center justify-center sm:justify-start gap-3 text-xs text-slate-400 font-bold uppercase tracking-widest">
                 <span className="text-orange-500 text-lg">🌍</span>
                 UAE • KSA • UK • US
               </li>
+
             </ul>
           </motion.div>
 
